@@ -6,13 +6,12 @@ gh repo clone edgarsanchez01/CRUD
 
 
 Instalar Dependencias: Una vez clonado el repositorio, navega al directorio del proyecto y asegúrate de tener Node.js instalado. Luego, instala las dependencias del proyecto con el siguiente comando:
-
 npm install
+
 Ejecución del Proyecto:
 Para ejecutar el proyecto, utiliza el siguiente comando en tu terminal:
-
-
 npm run dev
+
 Esto iniciará el servidor de desarrollo de Next.js y podrás acceder a la aplicación desde tu navegador en la dirección http://localhost:3000.
 
 Uso de la Aplicación:
@@ -26,8 +25,8 @@ Se configura Axios en el proyecto y se utiliza en componentes específicos para 
 Gestión de Errores:
 La aplicación implementa la gestión de errores utilizando Axios para manejar situaciones como errores de red o respuestas de error de la API externa.
 Los mensajes de error apropiados se muestran en la interfaz de usuario cuando ocurren situaciones no previstas.
-Entrega y Contribución:
-El proyecto se encuentra alojado en un repositorio Git y está disponible para revisión y contribución.
+
+
 Si deseas contribuir al proyecto, por favor crea un fork del repositorio, realiza tus cambios y envía un pull request.
 Tecnologías Utilizadas:
 Next.js
