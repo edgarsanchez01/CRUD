@@ -2,9 +2,9 @@ Este proyecto consiste en una aplicación desarrollada con Next.js que permite g
 
 Configuración del Proyecto:
 Clonar el Repositorio: Para obtener el código fuente del proyecto, clona este repositorio en tu máquina local utilizando el siguiente comando:
-
-
 gh repo clone edgarsanchez01/CRUD
+
+
 Instalar Dependencias: Una vez clonado el repositorio, navega al directorio del proyecto y asegúrate de tener Node.js instalado. Luego, instala las dependencias del proyecto con el siguiente comando:
 
 npm install
